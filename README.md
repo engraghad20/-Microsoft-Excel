@@ -1,4 +1,5 @@
-<img width="1600" height="739" alt="WhatsApp Image 2026-11-05 at 5 25 42 PM (1)" src="https://github.com/user-attachments/assets/0e0f3a17-07a8-43d9-a0c8-ff9817e89824" />
+<img width="1445" height="847" alt="WhatsApp Image 2026-11-05 at 5 25 42 PM" src="https://github.com/user-attachments/assets/4ba02147-28f8-447e-86a3-1143f9eed884" />
+
 ظام إدارة محتوى منصة بت | Microsoft Excel
 
 صممت وطوّرت نظامًا متكاملًا لإدارة محتوى فريق السوشيال ميديا في منصة بِت | BitToBest باستخدام Microsoft Excel، بهدف تنظيم سير العمل وربط التخطيط بالتنفيذ والمتابعة.
@@ -12,4 +13,5 @@
 النتيجة: نظام موحّد يوفر رؤية واضحة لسير العمل، وينظم المسؤوليات، ويقلل الاعتماد على المتابعة اليدوية.
 
 Google Drive : https://drive.google.com/drive/folders/1CXCvyO_1P_u_CWcxAQk-T4TaFXzTpxeI?usp=drive_link
-<img width="1445" height="847" alt="WhatsApp Image 2026-11-05 at 5 25 42 PM" src="https://github.com/user-attachments/assets/8f8b5e4c-3887-4ed7-a696-9d3eebab1ac0" />
+
+<img width="1600" height="739" alt="WhatsApp Image 2026-11-05 at 5 25 42 PM (1)" src="https://github.com/user-attachments/assets/6c76ff21-7f7f-4f93-92c2-ebc4cadb747f" />
